@@ -1,6 +1,6 @@
-# Quasar App (gvc-quasar)
+# GVC Mê Linh (gvc-melinh)
 
-A Quasar Framework app
+GVC Mê Linh App
 
 ## Install the dependencies
 ```bash
